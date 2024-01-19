@@ -13,4 +13,4 @@ This is a QR Code Generator project that enables users to create QR codes for te
 To get a local copy of the project up and running, follow these simple steps:
 
 ## Screenshot
-![image](./qrimage.png)
+![image](./qrimages.png)
